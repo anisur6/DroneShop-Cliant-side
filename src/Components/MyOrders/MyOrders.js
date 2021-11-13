@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import { Button, Container, Table } from 'react-bootstrap';
+import { Container, Table } from 'react-bootstrap';
 import useAuth from '../../hooks/useAuth';
-import ManageAll from '../ManageAll/ManageAll';
 import MyOrder from '../MyOrder/MyOrder';
 
 

@@ -5,7 +5,6 @@ import {
     Switch,
     Route,
     Link,
-    useParams,
     useRouteMatch
 } from "react-router-dom";
 import AddRating from '../AddRating/AddRating';
