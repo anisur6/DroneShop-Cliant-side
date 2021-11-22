@@ -17,7 +17,7 @@ const Booking = () => {
     const [service, setService] = useState({})
 
     useEffect(() => {
-        fetch(`http://localhost:5000/services/${userId}`)
+        fetch(`https://drneshop-online.herokuapp.com/services/${userId}`)
             .then(res => res.json())
             .then(data => setService(data));
     }, [])
