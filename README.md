@@ -1,4 +1,4 @@
-# VeryDeone responsive website
+# VeryDrone responsive website
 
 Project live link [Website Link](https://droneshop-cliant-website.web.app/).
 
@@ -12,9 +12,9 @@ we provide after seles services. and also provide home delivary. brows and know 
 1. Fast Delivary in Citites
 2. Carrer With Us
 3. Gifts for our lucky Customers
-4. PARTS AVAILABLE
-5. CUSTOMER CARE
-6. SALES SERVICE
+4. Available Parts
+5. Customer Care
+6. Sales Service
 
 
 
